@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<config version="2.1.38" for="autoping-norway"
+        href="http://sparhell.no/knut/wp-content/plugins/autoping-norway/config.xml">
+
+<!--	This is a comment:
+	THIS A REQUIRED XML FILE FOR DEFAULT SETTINGS.
+	BE CAREFUL WHEN EDITING IN A TEXT EDITOR (KEEP IT WELL-FORMED) OR IT WILL NOT LOAD!
+-->
+
+ <services max-age-days="1">
+  <bloggarkivet name="Bloggarkivet"	method="trackback"	vote="false"	enabled="false"
+                href="http://bloggarkivet.net/">
+   <categories  type="xml"
+				src="bloggarkivet.xml"
+                srs="http://sparhell.no/knut/wp-content/plugins/autoping-norway/bloggarkivet.xml"
+				srb="http://bloggarkivet.net/ping/bloggarkivet.xml"/>
+  </bloggarkivet>
+
+  <blopp		name="Blopp"		method="trackback"	vote="true"		enabled="false"
+                href="http://blopp.no/">
+   <categories  type="xml"	encoding="ISO-8859-1"
+				src="blopp.xml"
+                srs="http://sparhell.no/knut/wp-content/plugins/autoping-norway/blopp.xml"
+				srb="http://blopp.no/autoping-categories.xml"/>
+   <register	href="http://blopp.no/register.php"		name="username"	src="password"	method="$auth.sha1($auth.$src)"	as="hash">
+    <form		type="html"	src="http://blopp.no/autoping-reg.php"	id="wp_regpingform"
+				href="http://blopp.no/autoping-reg.php"
+				error="/response/error"	message="/response/message"	auth="/response/salt"/>
+   </register>
+  </blopp>
+
+  <blogglisten	name="Blogglisten"	method="trackback"	vote="false"	enabled="false"
+                href="http://blogglisten.no/">
+   <categories  type="xml"
+				src="blogglisten.xml"
+                srs="http://sparhell.no/knut/wp-content/plugins/autoping-norway/blogglisten.xml"/>
+  </blogglisten>
+
+  <twitter		name="Twitter"		method="form"		vote="false"	enabled="false">
+   <register>
+    <form method="post" action="?"/>
+   </register>>
+  </twitter>
+
+ </services>
+</config>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<services version="1.2" for="autoping-norway">
+	<service name="Twingly" uri="http://rpc.twingly.com/"/>
+	<service name="Bloggurat" uri="http://ping.bloggurat.net/"
+			register="true"	reg="http://bloggurat.net/minblogg/"/>
+	<service name="Bloggoversikten" uri="http://bloggoversikten.com/ping"
+			register="true"	reg="http://bloggoversikten.com/om/hvordan-komme-med-i-oversikten/"/>
+	<service name="Google BloggSearch" uri="http://blogsearch.google.com/ping/RPC2"/>
+	<service name="Technorati" uri="http://rpc.technorati.com/rpc/ping"/>
+</services>

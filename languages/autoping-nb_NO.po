@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Autoping Norway 2.6.3\n"
+"Report-Msgid-Bugs-To: Knut Sparhell <knut@sparhell.no>\n"
+"POT-Creation-Date: 2009-03-01 00:00+0100\n"
+"PO-Revision-Date: 2009-07-20 07:05+0200\n"
+"Last-Translator: Knut Sparhell <knut@sparhell.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: autoping.php:142
+#: autoping.php:205
+#@ autoping
+msgid "Don't ping"
+msgstr "Ikke ping"
+
+#: autoping.php:285
+#: autoping.php:288
+#: autoping.php:376
+#: autoping.php:384
+#: autoping.php:387
+#: autoping.php:707
+msgid "Categories"
+msgstr ""
+
+#: autoping.php:328
+#: autoping.php:669
+msgid "Save Changes"
+msgstr ""
+
+#: autoping.php:354
+#@ autoping
+msgid "version"
+msgstr "versjon"
+
+#: autoping.php:349
+#@ autoping
+msgid "and"
+msgstr "og"
+
+#: autoping.php:724
+#: autoping.php:764
+msgid "Plugin"
+msgstr ""
+
+#: autoping.php:724
+#: autoping.php:764
+#@ autoping
+msgid "is <em>not compatible</em> with"
+msgstr "er <em>ikke kompatibel</em> med"
+
+#: autoping.php:724
+msgid "plugin"
+msgstr ""
+
+#: autoping.php:724
+#@ autoping
+msgid "now <strong>deactivated</strong>"
+msgstr "nå <strong>deaktivert</strong>"
+
+#: autoping.php:764
+#@ autoping
+msgid "this"
+msgstr "denne"
+
+#: autoping.php:764
+#@ autoping
+msgid "or"
+msgstr "eller"
+
+#: autoping.php:764
+#@ autoping
+msgid "immediately <strong>deactivated</strong>"
+msgstr "ble straks <strong>deaktivert</strong>"
+
+#: autoping.php:724
+#@ autoping
+msgid "Consult the compatibility issues in"
+msgstr "Jamfør kompatibilitetsmerknadene i"
+
+#: autoping.php:724
+#: autoping.php:764
+#@ autoping
+msgid "the &quot;readme&quot; file"
+msgstr "&quot;les-meg&quot;-dokumentet"
+
+#: autoping.php:764
+#@ autoping
+msgid "Consult the system requirements in"
+msgstr "Jamfør systemkravene i"
+
+#: autoping.php:764
+#@ autoping
+msgid "WordPress</span> version"
+msgstr "WordPress</span>-versjon"
+
+#: autoping.php:288
+#@ autoping
+msgid "Map automatic"
+msgstr "Koble automatiske"
+
+#: autoping.php:305
+#@ autoping
+msgid "Method"
+msgstr "Metode"
+
+#: autoping.php:267
+#: autoping.php:446
+#: autoping.php:462
+#: autoping.php:643
+msgid "Settings saved."
+msgstr ""
+
+#: autoping.php:343
+#: autoping.php:348
+#: autoping.php:352
+#@ autoping
+msgid "with"
+msgstr "med"
+
+#: autoping.php:359
+#@ autoping
+msgid "Localized to"
+msgstr "Lokalisert til"
+
+#: autoping.php:362
+#@ autoping
+msgid "NOTICE: Localization file"
+msgstr "MERKNAD: Lokaliseringsfilen"
+
+#: autoping.php:364
+#@ autoping
+msgid "not found"
+msgstr "ikke funnet"
+
+#: autoping.php:312
+#: autoping.php:320
+#@ autoping
+msgid "Registering"
+msgstr "Registrering"
+
+#: autoping.php:322
+#@ autoping
+msgid "Not used"
+msgstr "Ubrukt"
+
+#: autoping.php:438
+#@ autoping
+msgid "Settings deleted."
+msgstr "Innstillinger slettet."
+
+#: autoping.php:500
+#@ autoping
+msgid "Register at"
+msgstr "Registrer deg på"
+
+#: autoping.php:500
+#@ autoping
+msgid "to enable this service"
+msgstr "for å gjøre denne tjenesten tilgjengelig"
+
+#: autoping.php:600
+#@ autoping
+msgid "To delete, just enter an empty"
+msgstr "For å slette, legg inn et tomt"
+
+#: autoping.php:600
+msgid "Password"
+msgstr ""
+
+#: autoping.php:601
+#@ autoping
+msgid "Privacy statement"
+msgstr "Personvernerklæring"
+
+#: autoping.php:601
+#@ autoping
+msgid "The password entered above will not be stored here as such. It will be sendt to"
+msgstr "Passordet som er lagt inn ovenfor vil ikke bli lagret her, som sådan. Det vil bli sendt til"
+
+#: autoping.php:601
+#@ autoping
+msgid "and then your user name and a &laquo;salted&raquo; hash of your password will be stored in your WordPress database for use when pinging"
+msgstr "og så blir ditt brukernavn og &laquo;saltede&raquo; avtrykk av passordet lagret i din WordPress-database for å brukes ved pinging av"
+
+#: autoping.php:601
+#@ autoping
+msgid "only"
+msgstr "og kun dit"
+
+#: autoping.php:489
+#@ autoping
+msgid "No action"
+msgstr "Ingen handling"
+
+#: autoping.php:501
+#@ autoping
+msgid "Enter your"
+msgstr "Legg inn din"
+
+#: autoping.php:501
+#@ autoping
+msgid " registration here"
+msgstr "-registrering her"
+
+#: autoping.php:316
+#@ autoping
+msgid "Missing"
+msgstr "Mangler"
+
+#: autoping.php:600
+#@ autoping
+msgid "Deleting and saving here may be repeated as many times as you wish"
+msgstr "Sletting og lagring her kan gjentas så mange ganger du ønsker"
+
+#: autoping.php:316
+#: autoping.php:665
+#@ autoping
+msgid "Register here first"
+msgstr "Registrer deg her først"
+
+#: autoping.php:653
+#@ autoping
+msgid "Select the services you want to ping"
+msgstr "Velg de tjenestene du vil pinge"
+
+#: autoping.php:678
+#@ autoping
+msgid "Other"
+msgstr "Andre"
+
+#: autoping.php:320
+#@ autoping
+msgid "Registered to"
+msgstr "Registrert på"
+
+#: autoping.php:320
+#@ autoping
+msgid "Not you"
+msgstr "Ikke deg"
+
+#: autoping.php:397
+#@ autoping
+msgid "unregistered users"
+msgstr "uregistrerte brukere"
+
+#: autoping.php:438
+#@ autoping
+msgid "This service is now disabled for"
+msgstr "Denne tjenesten er nå deaktivert for"
+
+#: autoping.php:462
+#@ autoping
+msgid "This service is now enabled for"
+msgstr "Denne tjenesten er nå aktivert for"
+
+#: autoping.php:497
+#: autoping.php:498
+#: autoping.php:652
+msgid "Settings"
+msgstr ""
+
+#: autoping.php:570
+#@ autoping
+msgid "Add vote button to posts which are completeley displayed and pinged to"
+msgstr "Legg til en stemmeknapp for innlegg som vises fullstendig og som er pinget"
+
+#: autoping.php:652
+#@ autoping
+msgid "for RPC pingback services"
+msgstr "for RPC-baserte tilbakesporingstjenester"
+
+#: autoping.php:733
+#@ autoping
+msgid "Vote"
+msgstr "Stem"
+
+#: autoping.php:271
+#@ autoping
+msgid "Norway"
+msgstr "Norge"
+
+#: autoping.php:331
+#@ autoping
+msgid "Server"
+msgstr "Tjenermaskin"
+
+#: autoping.php:331
+#@ autoping
+msgid "running"
+msgstr "kjører"
+

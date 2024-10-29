@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<categories lastupdate="2009-05-26 09:09:09" version="1.0" servicename="blogglisten.no">
+	<name>Ingen kategori</name>
+	<value>99</value>
+	<name>Mote</name>
+	<value>1</value>
+	<name>Blogg</name>
+	<value>2</value>
+	<name>Data og IT</name>
+	<value>3</value>
+	<name>Samfunn</name>
+	<value>4</value>
+	<name>Personlig</name>
+	<value>5</value>
+	<name>Diverse</name>
+	<value>6</value>
+</categories>
